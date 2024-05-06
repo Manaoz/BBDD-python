@@ -1,0 +1,2 @@
+# Bases de Datos Relacionales
+En este ejercicio, exploraremos una situación práctica de bases de datos relacionales utilizando Python y la biblioteca Pandas. Se nos presenta un conjunto de tablas que representan datos sobre departamentos, familias de productos, artículos, campañas promocionales y ventas. Nuestra tarea es realizar consultas y análisis sobre estos datos utilizando Python, aprovechando las capacidades de Pandas para procesar la información de manera eficiente.
